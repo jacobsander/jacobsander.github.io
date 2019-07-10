@@ -1,0 +1,145 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+ul{
+    margin: auto;
+}
+
+.jumbotron{
+    background-image: url("img/jumbo2.jpg");
+    background-size: cover;
+    height: 500px;
+}
+
+.text{
+    margin-top: 50px;
+    color: white;
+}
+
+.display-4{
+    font-weight: 700;
+}
+
+.lead{
+    font-weight: 700;
+}
+
+.btn-lg{
+    margin-top: 50px;
+}
+
+.row{
+    text-align: center;
+}
+
+.col{
+    width: 25%
+}
+
+.icon{
+    width: 60px;
+    margin-bottom: 20px;
+}
+
+.usp{
+    font-size: 24px;
+    font-weight: 700;
+    padding-bottom: 25px;
+}
+
+p{
+    font-size: 16px;
+    margin: 35px 0;
+}
+
+.bike-section{
+    background-color: #0984e3;
+}
+
+.bike-pics{
+    height: 60%;
+    width: 85%;
+    object-fit: cover;
+    margin: 40px 0;
+    border-radius: 10%;
+}
+
+h2{
+    padding-top: 30px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+}
+
+.bike-title{
+    font-size: 24px;
+    font-weight: 700;
+    padding-bottom: 40px;
+}
+
+
+.gavekort-title{
+    margin: 30px 0;
+    text-align: center;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.gavekort-text{
+    margin: 20px 20px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.about-us{
+    background-color: #ecf0f1;
+}
+
+.safety-title{
+    font-weight: 700;
+    font-size: 32px;
+    padding: 30px 0;
+    text-align: center;
+}
+
+.isak{
+    height: 90%;
+    width: 60%;
+    object-fit: cover;
+    margin: auto;
+    border-radius: 10%;
+}
+
+.isak-familie{
+    height: 90%;
+    width: 60%;
+    object-fit: cover;
+    margin: auto;
+    border-radius: 10%;
+}
+
+.safety{
+    text-align: left;
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+}
+
+.footer-title{
+    font-size: 16px;
+}
+
+.footer-col{
+    padding: 20px 0;
+    font-size: 12px;
+}
+
+.open{
+    text-align: center;
+}
