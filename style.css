@@ -3,6 +3,16 @@
     margin: 0;
 }
 
+.bg-light {
+    background-color: white;
+}
+
+.logo {
+    height: 60px;
+    width: 120px;
+
+}
+
 ul{
     margin: auto;
 }
@@ -20,6 +30,7 @@ ul{
 
 .display-4{
     font-weight: 700;
+    font-size: 36px
 }
 
 .lead{
@@ -52,6 +63,36 @@ ul{
 p{
     font-size: 16px;
     margin: 35px 0;
+}
+
+.testimonials {
+    height: 300px;
+    width: 100%;
+    background-color: #ecf0f1;
+}
+
+.testimonials-title {
+    padding-top: 30px;
+    font-weight: 700;
+    color: black;
+    text-align: center;
+}
+
+.kunde-pic {
+    height: 60%;
+    width: 85%;
+    object-fit: cover;
+    margin: 40px 0;
+    border-radius: 10%;
+    margin-top: 5px;
+}
+
+.kunde-headline {
+    margin-bottom: 10px;
+}
+
+.kunde-text {
+    margin-top: 10px;
 }
 
 .bike-section{
